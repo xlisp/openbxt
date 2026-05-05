@@ -1,0 +1,10 @@
+torch>=2.0
+torchvision>=0.15
+numpy>=1.23
+scipy>=1.10
+astropy>=5.2
+pillow>=9.0
+tifffile>=2023.4
+photutils>=1.7
+tqdm>=4.65
+pyyaml>=6.0
